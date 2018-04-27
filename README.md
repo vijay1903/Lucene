@@ -1,1 +1,1 @@
-# Lucene
+This repository consists of the codes that are required for doing a small demo of lucene text search on text files. Copy the code to the java classes and change the location of the data and index folder as per their location on your local machine.
